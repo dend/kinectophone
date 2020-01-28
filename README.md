@@ -8,4 +8,4 @@ We used skeletal tracking to manipulate the main character in the WPF-based appl
 
 ## Article
 
-You can read more about the project [on Channel9](https://channel9.msdn.com/coding4fun/articles/kinectophone).
+You can read more about the project [on Channel9](https://channel9.msdn.com/coding4fun/articles/kinectophone). For a version of the article that contains screenshots, refer to the [Internet Archive copy](https://web.archive.org/web/20160310113100/https://channel9.msdn.com/coding4fun/articles/kinectophone).
